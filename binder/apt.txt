@@ -1,0 +1,6 @@
+xpra
+xfonts-base
+xterm
+openbox
+x11-xserver-utils
+xinit
